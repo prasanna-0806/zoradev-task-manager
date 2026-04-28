@@ -3,6 +3,7 @@
 A simple full-stack task manager built for the ZoraDev Full Stack Developer Intern selection task. Users can add, view, complete, and delete tasks. The frontend is React, the backend is Node.js + Express, and tasks are stored in memory on the server.
 
 **Live Demo:** https://zoradev-task-manager-nine.vercel.app
+
 **Backend API:** https://zoradev-task-api.onrender.com
 
 ## Tech Stack
